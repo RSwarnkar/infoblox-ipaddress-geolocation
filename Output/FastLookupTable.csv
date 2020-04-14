@@ -1,0 +1,284 @@
+City,Country,CountryCode,Latitude,Longitude,Region,RegionCode,LookupKey
+Aarhus,Denmark,DK,56.1112,10.2099,Central Jutland,18,Aarhus#Denmark#DK
+Adelaide,Australia,AU,-34.8716,138.676,South Australia,05,Adelaide#Australia#AU
+Aguascalientes,Mexico,MX,21.8254,-102.3267,Aguascalientes,01,Aguascalientes#Mexico#MX
+Aix-en-Provence,France,FR,43.5312,5.4554,Provence-Alpes-Côte d'Azur,PAC,Aix-en-Provence#France#FR
+Alcobendas,Spain,ES,40.5458,-3.6443,Madrid,29,Alcobendas#Spain#ES
+Almere,Netherlands,NL,,,,,Almere#Netherlands#NL
+Almhult,Sweden,SE,55.616,14.1596,Skåne,27,Almhult#Sweden#SE
+Almondsbury,United Kingdom,GB,51.559,-2.5718,South Gloucestershire,M6,Almondsbury#United Kingdom#GB
+Amersfoort,Netherlands,NL,52.1586,5.3474,Provincie Utrecht,09,Amersfoort#Netherlands#NL
+Amsterdam,Netherlands,NL,52.3534,4.9087,North Holland,07,Amsterdam#Netherlands#NL
+Ann Arbor,United States,US,42.2503,-83.8393,Michigan,MI,Ann Arbor#United States#US
+Apeldoorn,Netherlands,NL,52.1887,5.9929,Provincie Gelderland,03,Apeldoorn#Netherlands#NL
+Araraquara,Brazil,BR,-21.7967,-48.1766,Sao Paulo,27,Araraquara#Brazil#BR
+Aston,United Kingdom,GB,52.4976,-1.8786,Birmingham,A7,Aston#United Kingdom#GB
+Asturias,Spain,ES,,,,,Asturias#Spain#ES
+Atlanta,United States,US,,,,,Atlanta#United States#US
+Aubiere,France,FR,45.7516,3.1125,Auvergne-Rhone-Alpes,ARA,Aubiere#France#FR
+Austin,United States,US,,,,,Austin#United States#US
+BELLEVUE,United States,US,,,,,BELLEVUE#United States#US
+BORDEAUX,France,FR,,,,,BORDEAUX#France#FR
+Bagnols sur Ceze,France,FR,,,,,Bagnols sur Ceze#France#FR
+Baillargues,France,FR,43.668,4.0198,Occitanie,OCC,Baillargues#France#FR
+Bangalore,India,IN,,,,,Bangalore#India#IN
+Barcelona,Spain,ES,41.3891,2.1611,Catalonia,56,Barcelona#Spain#ES
+Barueri,Brazil,BR,-23.4983,-46.8651,Sao Paulo,27,Barueri#Brazil#BR
+Basel,Switzerland,CH,47.5577,7.5936,Basel-City,04,Basel#Switzerland#CH
+Bayonne,France,FR,43.4823,-1.4825,Nouvelle-Aquitaine,NAQ,Bayonne#France#FR
+Bellevue,United States,US,,,,,Bellevue#United States#US
+Belo Horizonte,Brazil,BR,,,,,Belo Horizonte#Brazil#BR
+Bergen,Norway,NO,60.3544,5.3403,Vestland,46,Bergen#Norway#NO
+Bhubaneswar,India,IN,20.2713,85.8334,Odisha,21,Bhubaneswar#India#IN
+Billerica,United States,US,42.5511,-71.256,Massachusetts,MA,Billerica#United States#US
+Blagnac,France,FR,43.6327,1.4029,Occitanie,OCC,Blagnac#France#FR
+Bloomfield,United States,US,,,,,Bloomfield#United States#US
+Blumenau,Brazil,BR,-26.8768,-49.0976,Santa Catarina,26,Blumenau#Brazil#BR
+Bologna,Italy,IT,44.4938,11.3387,Emilia-Romagna,05,Bologna#Italy#IT
+Bordes,France,FR,43.2333,-0.2833,Nouvelle-Aquitaine,NAQ,Bordes#France#FR
+Borlange,Sweden,SE,,,,,Borlange#Sweden#SE
+Boulogne-Billancourt,France,FR,48.8356,2.2549,Île-de-France,IDF,Boulogne-Billancourt#France#FR
+Brasilia,Brazil,BR,,,,,Brasilia#Brazil#BR
+Brest,France,FR,48.3877,-4.4839,Brittany,BRE,Brest#France#FR
+Bridgewater,United States,US,,,,,Bridgewater#United States#US
+Brussel,Belgium,BE,,,,,Brussel#Belgium#BE
+Bucharest,Romania,RO,44.3839,26.1261,Bucuresti,10,Bucharest#Romania#RO
+Buenos Aires,Argentina,AR,-34.6021,-58.3845,Buenos Aires F.D.,07,Buenos Aires#Argentina#AR
+Burbank,United States,US,,,,,Burbank#United States#US
+Cambridge,United States,US,,,,,Cambridge#United States#US
+Campinas,Brazil,BR,,,,,Campinas#Brazil#BR
+Canberra,Australia,AU,-35.2892,149.1542,Australian Capital Territory,01,Canberra#Australia#AU
+Canejan,France,FR,44.764,-0.6534,Nouvelle-Aquitaine,NAQ,Canejan#France#FR
+Capelle aan den Ijssel,Netherlands,NL,,,,,Capelle aan den Ijssel#Netherlands#NL
+Casablanca,Morocco,MA,33.5922,-7.6184,Casablanca-Settat,48,Casablanca#Morocco#MA
+Cesson Sevigne,France,FR,,,,,Cesson Sevigne#France#FR
+Cesson Sévigné,France,FR,,,,,Cesson Sévigné#France#FR
+Chantilly,France,FR,49.1946,2.4712,Hauts-de-France,HDF,Chantilly#France#FR
+Charlotte,United States,US,,,,,Charlotte#United States#US
+Chennai,India,IN,13.086,80.2751,Tamil Nadu,25,Chennai#India#IN
+Cherbourg-Octeville,France,FR,49.6454,-1.6144,Normandy,NOR,Cherbourg-Octeville#France#FR
+Chicago,United States,US,41.8095,-87.6522,Illinois,IL,Chicago#United States#US
+Columbia,United States,US,,,,,Columbia#United States#US
+Courbevoie,France,FR,48.8954,2.2574,Île-de-France,IDF,Courbevoie#France#FR
+Dallas,United States,US,,,,,Dallas#United States#US
+Diegem,Belgium,BE,50.8973,4.4335,Flemish Brabant Province,12,Diegem#Belgium#BE
+Digulleville,France,FR,49.6998,-1.859,Normandy,NOR,Digulleville#France#FR
+Dompierre-sur-Mer,France,FR,46.1882,-1.0635,Nouvelle-Aquitaine,NAQ,Dompierre-sur-Mer#France#FR
+Dubai,United Arab Emirates,AE,25.2633,55.3087,Dubai,03,Dubai#United Arab Emirates#AE
+Dublin,Ireland,IE,53.3338,-6.2488,Leinster,L,Dublin#Ireland#IE
+Eindhoven,Netherlands,NL,51.4235,5.5011,North Brabant,06,Eindhoven#Netherlands#NL
+El Paso,United States,US,,,,,El Paso#United States#US
+Equeurdreville-Hainneville,France,FR,49.6487,-1.6531,Normandy,NOR,Equeurdreville-Hainneville#France#FR
+Espoo,Finland,FI,60.1499,24.7569,Uusimaa,35,Espoo#Finland#FI
+Euston,United Kingdom,GB,52.3817,0.7481,Suffolk,N5,Euston#United Kingdom#GB
+FW-unknown,Argentina,AR,,,,,FW-unknown#Argentina#AR
+Fortitude Valley,Australia,AU,-27.4633,153.0374,Queensland,04,Fortitude Valley#Australia#AU
+Foshan,China,CN,23.0287,113.1341,Guangdong,30,Foshan#China#CN
+France,France,FR,,,,,France#France#FR
+Frankfurt,Germany,DE,,,,,Frankfurt#Germany#DE
+Fredrikstad,Norway,NO,59.2113,10.9363,Viken,30,Fredrikstad#Norway#NO
+GALLIENIDC,France,FR,,,,,GALLIENIDC#France#FR
+GOUVIEUX,France,FR,,,,,GOUVIEUX#France#FR
+Gandhinagar,India,IN,23.2167,72.6833,Gujarat,09,Gandhinagar#India#IN
+Gavle,Sweden,SE,,,,,Gavle#Sweden#SE
+Geneva,Switzerland,CH,46.1946,6.1485,Geneva,07,Geneva#Switzerland#CH
+Genova,Italy,IT,,,,,Genova#Italy#IT
+Glasgow,United Kingdom,GB,55.8309,-4.2143,Glasgow City,V2,Glasgow#United Kingdom#GB
+Goteborg,Sweden,SE,,,,,Goteborg#Sweden#SE
+Gouvieux,France,FR,49.187,2.4144,Hauts-de-France,HDF,Gouvieux#France#FR
+Grenoble,France,FR,45.1733,5.7238,Auvergne-Rhone-Alpes,ARA,Grenoble#France#FR
+Groningen,Netherlands,NL,53.2275,6.5433,Groningen,04,Groningen#Netherlands#NL
+Guangzhou,China,CN,23.1167,113.25,Guangdong,30,Guangzhou#China#CN
+Guatemala,Guatemala,GT,,,,,Guatemala#Guatemala#GT
+Guilherand-Granges,France,FR,44.9328,4.8737,Auvergne-Rhone-Alpes,ARA,Guilherand-Granges#France#FR
+Gurgaon,India,IN,,,,,Gurgaon#India#IN
+Guyancourt,France,FR,48.7733,2.0739,Île-de-France,IDF,Guyancourt#France#FR
+Hamburg,Germany,DE,53.5521,10.0004,Hamburg,04,Hamburg#Germany#DE
+Hangzhou,China,CN,30.294,120.1619,Zhejiang,02,Hangzhou#China#CN
+Hannover,Germany,DE,,,,,Hannover#Germany#DE
+Haute Deule,France,FR,,,,,Haute Deule#France#FR
+Helsingborg,Sweden,SE,56.0467,12.6944,Skåne,27,Helsingborg#Sweden#SE
+Helsinki,Finland,FI,60.1758,24.9349,Uusimaa,35,Helsinki#Finland#FI
+Hinjewadi,India,IN,18.5934,73.7298,Maharashtra,16,Hinjewadi#India#IN
+Ho Chi Minh,Vietnam,VN,,,,,Ho Chi Minh#Vietnam#VN
+Hong Kong,Hong Kong,HK,,,,,Hong Kong#Hong Kong#HK
+Horsham,United States,US,40.1821,-75.1479,Pennsylvania,PA,Horsham#United States#US
+Houston,United States,US,,,,,Houston#United States#US
+Hyderabad,India,IN,17.3846,78.4574,Telangana,TG,Hyderabad#India#IN
+ISSY LES MOULINEAUX,France,FR,,,,,ISSY LES MOULINEAUX#France#FR
+Iasi,Romania,RO,,,,,Iasi#Romania#RO
+Inverness,United Kingdom,GB,57.4833,-4.2328,Highland,V3,Inverness#United Kingdom#GB
+Irving,United States,US,,,,,Irving#United States#US
+Issy les Moulineaux,France,FR,,,,,Issy les Moulineaux#France#FR
+Issy-les-Moulineaux,France,FR,48.8232,2.278,Île-de-France,IDF,Issy-les-Moulineaux#France#FR
+Jersey City,United States,US,40.7182,-74.0476,New Jersey,NJ,Jersey City#United States#US
+Jonkoping,Sweden,SE,,,,,Jonkoping#Sweden#SE
+Karlstad,Sweden,SE,59.3766,13.5063,Värmland,22,Karlstad#Sweden#SE
+Katowice,Poland,PL,50.2646,19.0998,Silesia,83,Katowice#Poland#PL
+Kolkata,India,IN,22.5655,88.3653,West Bengal,28,Kolkata#India#IN
+Krakow,Poland,PL,50.0563,20.1322,Lesser Poland,77,Krakow#Poland#PL
+Kuala Lumpur,Malaysia,MY,3.1649,101.723,Kuala Lumpur,14,Kuala Lumpur#Malaysia#MY
+Kualalampur,Malaysia,MY,,,,,Kualalampur#Malaysia#MY
+Kunshan,China,CN,,,,,Kunshan#China#CN
+LYON,France,FR,,,,,LYON#France#FR
+La Spezia,Italy,IT,44.1191,9.8291,Liguria,08,La Spezia#Italy#IT
+LaSalle,United States,US,,,,,LaSalle#United States#US
+Lappeenranta,Finland,FI,61.0691,28.2845,South Karelia,17,Lappeenranta#Finland#FI
+Lassale,United States,US,,,,,Lassale#United States#US
+Le Bourget-du-lac,France,FR,,,,,Le Bourget-du-lac#France#FR
+Le Petit-Quevilly,France,FR,49.4101,1.0694,Normandy,NOR,Le Petit-Quevilly#France#FR
+Lille,France,FR,50.6321,3.0619,Hauts-de-France,HDF,Lille#France#FR
+Lille-Greentech,France,FR,,,,,Lille-Greentech#France#FR
+Lillehammer,Norway,NO,61.1051,10.3952,Innlandet,34,Lillehammer#Norway#NO
+Linkoping,Sweden,SE,,,,,Linkoping#Sweden#SE
+Lisle,United States,US,,,,,Lisle#United States#US
+Liverpool,United Kingdom,GB,53.4595,-2.9538,Liverpool,H8,Liverpool#United Kingdom#GB
+London,United Kingdom,GB,51.5329,-0.005,England,ENG,London#United Kingdom#GB
+Longbenton,United Kingdom,GB,,,,,Longbenton#United Kingdom#GB
+Lulea,Sweden,SE,,,,,Lulea#Sweden#SE
+Lyon,France,FR,45.748,4.85,Auvergne-Rhone-Alpes,ARA,Lyon#France#FR
+MARCON,France,FR,,,,,MARCON#France#FR
+MEADOWHALL,United Kingdom,GB,,,,,MEADOWHALL#United Kingdom#GB
+MONTPELLIER.1,France,FR,,,,,MONTPELLIER.1#France#FR
+Madrid,Spain,ES,40.4143,-3.7016,Madrid,29,Madrid#Spain#ES
+Malmo,Sweden,SE,55.6078,12.9981,Skåne,27,Malmo#Sweden#SE
+Mandelieu la Napoule,France,FR,,,,,Mandelieu la Napoule#France#FR
+Mandelieu-la-Napoule,France,FR,43.55,6.9333,Provence-Alpes-Côte d'Azur,PAC,Mandelieu-la-Napoule#France#FR
+Manila,Philippines,PH,14.5961,120.9669,Metro Manila,00,Manila#Philippines#PH
+Marcon,Italy,IT,45.5662,12.2963,Veneto,20,Marcon#Italy#IT
+Markham,Canada,CA,43.845,-79.322,Ontario,ON,Markham#Canada#CA
+McLean,United States,US,,,,,McLean#United States#US
+Melbourne,Australia,AU,-37.81,144.9644,Victoria,07,Melbourne#Australia#AU
+Melun,France,FR,48.5478,2.6568,Île-de-France,IDF,Melun#France#FR
+Merignac,France,FR,45.3333,-0.2833,Nouvelle-Aquitaine,NAQ,Merignac#France#FR
+Merlin,United Kingdom,GB,,,,,Merlin#United Kingdom#GB
+Meroux,France,FR,47.5957,6.8991,Bourgogne-Franche-Comte,BFC,Meroux#France#FR
+Mexico,Mexico,MX,,,,,Mexico#Mexico#MX
+Milan,Italy,IT,45.4707,9.1889,Lombardy,09,Milan#Italy#IT
+Milano,Italy,IT,,,,,Milano#Italy#IT
+Mississauga,Canada,CA,43.5419,-79.6164,Ontario,ON,Mississauga#Canada#CA
+Mont-Saint-Aignan,France,FR,49.4652,1.0929,Normandy,NOR,Mont-Saint-Aignan#France#FR
+Montbonnot St Martin,France,FR,,,,,Montbonnot St Martin#France#FR
+Montpellier  34000,France,FR,,,,,Montpellier  34000#France#FR
+Montpellier,France,FR,43.6107,3.8809,Occitanie,OCC,Montpellier#France#FR
+Montreal,Canada,CA,45.5242,-73.593,Quebec,QC,Montreal#Canada#CA
+Mougins,France,FR,43.598,7.0121,Provence-Alpes-Côte d'Azur,PAC,Mougins#France#FR
+Mulhouse,France,FR,47.7493,7.3344,Grand Est,GES,Mulhouse#France#FR
+Multiple,France,FR,,,,,Multiple#France#FR
+Multiple,United States,US,,,,,Multiple#United States#US
+Mumbai Campus,India,IN,,,,,Mumbai Campus#India#IN
+Mumbai,India,IN,19.0748,72.8856,Maharashtra,16,Mumbai#India#IN
+Munich,Germany,DE,48.1497,11.585,Bavaria,02,Munich#Germany#DE
+Murcia,Spain,ES,37.9881,-1.1247,Murcia,31,Murcia#Spain#ES
+NAPLES,Italy,IT,,,,,NAPLES#Italy#IT
+NIORT,France,FR,,,,,NIORT#France#FR
+NTE_Nantes,France,FR,,,,,NTE_Nantes#France#FR
+Nairn,United Kingdom,GB,57.4903,-3.9002,Highland,V3,Nairn#United Kingdom#GB
+Nancy,France,FR,48.6822,6.1862,Grand Est,GES,Nancy#France#FR
+Nantes,France,FR,47.2145,-1.5512,Pays de la Loire,PDL,Nantes#France#FR
+Napoli,Italy,IT,,,,,Napoli#Italy#IT
+Navi Mumbai,India,IN,,,,,Navi Mumbai#India#IN
+Netherlands,Netherlands,NL,,,,,Netherlands#Netherlands#NL
+New York,United States,US,40.7428,-73.9712,New York,NY,New York#United States#US
+Newcastle,United Kingdom,GB,54.2287,-5.9355,Newry Mourne and Down,NMD,Newcastle#United Kingdom#GB
+Noida,India,IN,28.5788,77.3321,Uttar Pradesh,36,Noida#India#IN
+Norrkoping,Sweden,SE,,,,,Norrkoping#Sweden#SE
+Nykoping,Sweden,SE,,,,,Nykoping#Sweden#SE
+Ontario,Canada,CA,,,,,Ontario#Canada#CA
+Opole,Poland,PL,50.663,17.9146,Opole Voivodeship,79,Opole#Poland#PL
+Orebro,Sweden,SE,,,,,Orebro#Sweden#SE
+Orleans,France,FR,,,,,Orleans#France#FR
+Ornskoldviks,Sweden,SE,,,,,Ornskoldviks#Sweden#SE
+Oslo,Norway,NO,59.905,10.7487,Oslo County,12,Oslo#Norway#NO
+PARIS,France,FR,,,,,PARIS#France#FR
+PONTYPRIDD,United Kingdom,GB,,,,,PONTYPRIDD#United Kingdom#GB
+Paris,France,FR,48.8543,2.3527,Île-de-France,IDF,Paris#France#FR
+Pau,France,FR,43.304,-0.3744,Nouvelle-Aquitaine,NAQ,Pau#France#FR
+Pensacola,United States,US,30.4767,-87.3141,Florida,FL,Pensacola#United States#US
+Pessac,France,FR,44.8152,-0.6455,Nouvelle-Aquitaine,NAQ,Pessac#France#FR
+Philadelphia,United States,US,,,,,Philadelphia#United States#US
+Piacenza,Italy,IT,45.0524,9.6934,Emilia-Romagna,05,Piacenza#Italy#IT
+Plano,United States,US,,,,,Plano#United States#US
+Porto Alegre,Brazil,BR,,,,,Porto Alegre#Brazil#BR
+Pune,India,IN,18.5213,73.8523,Maharashtra,16,Pune#India#IN
+QUIMPER,France,FR,,,,,QUIMPER#France#FR
+Quevilly,France,FR,,,,,Quevilly#France#FR
+RENNES1,France,FR,,,,,RENNES1#France#FR
+Rabat,France,FR,,,,,Rabat#France#FR
+Rabat,Morocco,MA,34.0123,-6.8484,Rabat-Sale-Kenitra,54,Rabat#Morocco#MA
+Redwood,United States,US,44.3242,-75.8186,New York,NY,Redwood#United States#US
+Rennes,France,FR,48.11,-1.6744,Brittany,BRE,Rennes#France#FR
+Rio de Janeiro,Brazil,BR,-22.9201,-43.3307,Rio de Janeiro,21,Rio de Janeiro#Brazil#BR
+Rockford,United States,US,,,,,Rockford#United States#US
+Roma,Italy,IT,,,,,Roma#Italy#IT
+Rome,Italy,IT,41.9,12.4833,Latium,07,Rome#Italy#IT
+Rosemont,United States,US,,,,,Rosemont#United States#US
+Rotherham,United Kingdom,GB,53.4477,-1.2045,Rotherham,L3,Rotherham#United Kingdom#GB
+RotterDams,Netherlands,NL,,,,,RotterDams#Netherlands#NL
+Rotterdam,Netherlands,NL,51.9249,4.5223,South Holland,11,Rotterdam#Netherlands#NL
+Ruch,Poland,PL,,,,,Ruch#Poland#PL
+Ruoms,France,FR,44.4517,4.3383,Auvergne-Rhone-Alpes,ARA,Ruoms#France#FR
+SOPHIA ANTIPOLIS.2,France,FR,,,,,SOPHIA ANTIPOLIS.2#France#FR
+STEZZANO,Italy,IT,,,,,STEZZANO#Italy#IT
+Saint-Cloud,France,FR,48.846,2.2029,Île-de-France,IDF,Saint-Cloud#France#FR
+Saint-Denis,France,FR,,,,,Saint-Denis#France#FR
+Sale,United Kingdom,GB,53.4236,-2.3113,Trafford,O6,Sale#United Kingdom#GB
+Salem,India,IN,11.6538,78.1554,Tamil Nadu,25,Salem#India#IN
+Salvador,Brazil,BR,,,,,Salvador#Brazil#BR
+San Francisco,United States,US,,,,,San Francisco#United States#US
+San Telmo,Mexico,MX,,,,,San Telmo#Mexico#MX
+Sandviken,Sweden,SE,60.6167,16.7667,Gävleborg,03,Sandviken#Sweden#SE
+Santa Fe,Mexico,MX,,,,,Santa Fe#Mexico#MX
+Schiltigheim,France,FR,48.6075,7.7493,Grand Est,GES,Schiltigheim#France#FR
+Shanghai,China,CN,,,,,Shanghai#China#CN
+Shenzhen,China,CN,22.5333,114.1333,Guangdong,30,Shenzhen#China#CN
+Singapore,Singapore,SG,1.352083,103.8198395,Singapore,01,Singapore#Singapore#SG
+Skovde,Sweden,SE,,,,,Skovde#Sweden#SE
+Solna,Sweden,SE,59.3578,17.9959,Stockholm,26,Solna#Sweden#SE
+Sophia antipolis.1,France,FR,,,,,Sophia antipolis.1#France#FR
+Southfield,United States,US,,,,,Southfield#United States#US
+Stavanger,Norway,NO,58.9598,5.77,Rogaland,14,Stavanger#Norway#NO
+Stockholm,Sweden,SE,59.3307,18.0718,Stockholm,26,Stockholm#Sweden#SE
+Strasbourg,France,FR,48.5855,7.7418,Grand Est,GES,Strasbourg#France#FR
+Suceava,Romania,RO,47.4366,25.9846,Suceava,34,Suceava#Romania#RO
+Sundsvalls,Sweden,SE,,,,,Sundsvalls#Sweden#SE
+Swindon,United Kingdom,GB,51.5747,-1.7823,Swindon,N9,Swindon#United Kingdom#GB
+Sydney,Australia,AU,-33.8591,151.2002,New South Wales,02,Sydney#Australia#AU
+TOULOUSE,France,FR,,,,,TOULOUSE#France#FR
+TRAFFORD,United Kingdom,GB,,,,,TRAFFORD#United Kingdom#GB
+Taguig,Philippines,PH,14.4696,121.0591,Metro Manila,00,Taguig#Philippines#PH
+Taipei City,Taiwan,TW,,,,,Taipei City#Taiwan#TW
+Taiwan,Taiwan,TW,,,,,Taiwan#Taiwan#TW
+Telford,United Kingdom,GB,52.701,-2.5052,Telford and Wrekin,O2,Telford#United Kingdom#GB
+Tokyo,Japan,JP,35.6307,139.6905,Tokyo,40,Tokyo#Japan#JP
+Torino,Italy,IT,,,,,Torino#Italy#IT
+Toronto,Canada,CA,43.6693,-79.3158,Ontario,ON,Toronto#Canada#CA
+Toulouse,France,FR,43.6046,1.4451,Occitanie,OCC,Toulouse#France#FR
+Tours,France,FR,47.3481,0.671,Centre-Val de Loire,CVL,Tours#France#FR
+Trichy,India,IN,,,,,Trichy#India#IN
+Turnhout,Belgium,BE,51.3224,4.9432,Antwerp Province,01,Turnhout#Belgium#BE
+US-SAJ-GONZALEZ,United States,US,,,,,US-SAJ-GONZALEZ#United States#US
+Umea,Sweden,SE,,,,,Umea#Sweden#SE
+University Park,United States,US,,,,,University Park#United States#US
+Uppsala,Sweden,SE,59.8584,17.6446,Uppsala,21,Uppsala#Sweden#SE
+Utrecht,Netherlands,NL,52.1037,5.1167,Provincie Utrecht,09,Utrecht#Netherlands#NL
+VALENCIA,France,FR,,,,,VALENCIA#France#FR
+VALENCIA,Spain,ES,,,,,VALENCIA#Spain#ES
+Valencia,Spain,ES,39.5,-0.4167,Valencia,60,Valencia#Spain#ES
+Vallensbaek Strand,Denmark,DK,55.6139,12.3895,Capital Region,17,Vallensbaek Strand#Denmark#DK
+Vasteras,Sweden,SE,,,,,Vasteras#Sweden#SE
+Vaxjo,Sweden,SE,56.8777,14.8091,Kronoberg,12,Vaxjo#Sweden#SE
+Velizy Villacoublay,France,FR,,,,,Velizy Villacoublay#France#FR
+Venezia,Italy,IT,,,,,Venezia#Italy#IT
+Venice,Italy,IT,45.4371,12.3327,Veneto,20,Venice#Italy#IT
+Vernon,France,FR,,,,,Vernon#France#FR
+Vianen,Netherlands,NL,,,,,Vianen#Netherlands#NL
+Viby J,Denmark,DK,,,,,Viby J#Denmark#DK
+Vigo,Spain,ES,42.2338,-8.7252,Galicia,58,Vigo#Spain#ES
+Wayne,United States,US,,,,,Wayne#United States#US
+Wellington,New Zealand,NZ,-41.2443,174.7885,Wellington,G2,Wellington#New Zealand#NZ
+Wien,Austria,AT,,,,,Wien#Austria#AT
+Wilmington,United States,US,,,,,Wilmington#United States#US
+Woking,United Kingdom,GB,51.3249,-0.5681,Surrey,N7,Woking#United Kingdom#GB
+Worthing,United Kingdom,GB,50.8253,-0.3719,West Sussex,P6,Worthing#United Kingdom#GB
+Zurich,Switzerland,CH,47.3664,8.5546,Zurich,25,Zurich#Switzerland#CH
