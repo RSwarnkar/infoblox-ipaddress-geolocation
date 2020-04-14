@@ -1,0 +1,38 @@
+#
+# Import IP Address Mappings from a CSV File
+#
+# It is also possible to import a lot of IP address mappings using a CSV file.
+# Note that the CSV file must not contain errors otherwise the import will abort.
+#
+# Requirements for the CSV file:
+#  - has to be ANSI or UTF-8 encoded
+#  - allowed delimiters are comma, semicolon and tab
+#  - use double quotes if a value contains a delimiter
+#  - escape double quotes inside a value with a preceding double quote
+#  - valid values for country and region are the same as shown in the drop-down menus when manually adding a mapping
+#  - it is recommended to use two letter ISO country codes (ISO Alpha-2) instead of names (e.g. "US" instead of "United States of America")
+#  - latitude and longitude must be between -180 and 180, don't use more than 2 decimal places. Both values must be valid or the coordinates will be ignored
+#  - it is recommended to provide coordinates for city mappings. Otherwise a lookup is performed and the CSV file can't be imported if no coordinates are found
+#  - an IP range can also be defined using a subnetmask (e.g. 192.168.1.1/24). This is only allowed in the first column. If IP-to is also provided, the subnetmask will be ignored
+#
+# The columns of one CSV line are as follows:
+#   IP/IP-from, IP-to (optional), country name or code, region name or code, city (optional), latitude (optional), longitude (optional)
+#
+#
+# Some examples:
+192.168.1.1,AT,09,Vienna (Dynatrace Austria), 48.20, 16.37
+192.169.1.1,192.169.1.255,US,"New York"
+192.170.1.1/16,US,"New York","US ""HQ""", 40.73, -73.93
+
+
+NetworkIPv4_CIDR,CountryName,Country Code,RegionName,CityName,Latitude,Longitude
+
+10.49.46.0/25,Australia,Victoria,Melbourne,,
+10.49.46.128/25,Australia,Victoria,Melbourne,,
+10.101.19.236/30,Australia,Victoria,Melbourne,,
+10.50.50.4/30,Australia,Victoria,Melbourne,,
+10.49.99.64/26,Australia,Victoria,Melbourne,,
+139.130.197.204/30,Australia,Victoria,Melbourne,,
+203.42.5.224/27,Australia,Victoria,Melbourne,,
+10.49.222.0/25,Australia,Victoria,Melbourne,,
+10.49.14.128/28,Australia,Victoria,Melbourne,,
