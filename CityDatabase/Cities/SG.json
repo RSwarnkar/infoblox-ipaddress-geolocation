@@ -1,0 +1,19 @@
+{
+  "name": "Singapore",
+  "code": "SG",
+  "regions": [
+    {
+      "name": "Singapore",
+      "code": "01",
+      "cities": [
+        {
+          "name": "Singapore",
+          "latitude": "1.352083",
+          "longitude": "103.8198395"
+        }
+      ]
+    }
+  ]
+}
+
+
